@@ -18,7 +18,7 @@ export default function PrivacyPolicy() {
               
               <h2 className="text-2xl font-bold mb-4 text-dark">1. Einleitung</h2>
               <p className="text-dark mb-6">
-                Bernhard Steinkamp ("wir", "unser" oder "uns") respektiert Ihre Privatsphäre und verpflichtet sich, Ihre persönlichen Daten zu schützen. Diese Datenschutzerklärung informiert Sie darüber, wie wir mit Ihren persönlichen Daten umgehen, wenn Sie unsere Website besuchen, und klärt Sie über Ihre Datenschutzrechte und den gesetzlichen Schutz auf.
+                Bernhard Steinkamp ({`\"wir\"`}, {`\"unser\"`} oder {`\"uns\"`}) respektiert Ihre Privatsphäre und verpflichtet sich, Ihre persönlichen Daten zu schützen. Diese Datenschutzerklärung informiert Sie darüber, wie wir mit Ihren persönlichen Daten umgehen, wenn Sie unsere Website besuchen, und klärt Sie über Ihre Datenschutzrechte und den gesetzlichen Schutz auf.
               </p>
               
               <h2 className="text-2xl font-bold mb-4 text-dark">2. Die Daten, die wir über Sie sammeln</h2>
