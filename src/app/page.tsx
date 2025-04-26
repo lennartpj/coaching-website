@@ -75,13 +75,13 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {/* Testimonial 1 */}
             <div className="bg-gray-50 p-8 rounded-lg shadow-md border-l-4 border-accent hover:shadow-lg transition-all duration-300">
-              <p className="italic text-gray-700 mb-4">{`\"Die Zusammenarbeit mit Bernhard hat meinen Führungsansatz grundlegend verändert. Seine Einsichten halfen mir, einen herausfordernden Übergang zu meistern und einen effektiveren Managementstil zu entwickeln.\"`}</p>
+              <p className="italic text-gray-700 mb-4">"Die Zusammenarbeit mit Bernhard hat meinen Führungsansatz grundlegend verändert. Seine Einsichten halfen mir, einen herausfordernden Übergang zu meistern und einen effektiveren Managementstil zu entwickeln."</p>
               <div className="font-semibold text-gray-800">- Marketingdirektor, Technologieunternehmen</div>
             </div>
             
             {/* Testimonial 2 */}
             <div className="bg-gray-50 p-8 rounded-lg shadow-md border-l-4 border-accent hover:shadow-lg transition-all duration-300">
-              <p className="italic text-gray-700 mb-4">{`\"Bernhards Coaching hat mir während eines bedeutenden Karrierewechsels Klarheit und Selbstvertrauen gegeben. Sein strukturierter Ansatz und seine durchdachte Anleitung waren genau das, was ich brauchte.\"`}</p>
+              <p className="italic text-gray-700 mb-4">"Bernhards Coaching hat mir während eines bedeutenden Karrierewechsels Klarheit und Selbstvertrauen gegeben. Sein strukturierter Ansatz und seine durchdachte Anleitung waren genau das, was ich brauchte."</p>
               <div className="font-semibold text-gray-800">- Senior Projektmanager, Finanzsektor</div>
             </div>
           </div>
