@@ -63,7 +63,7 @@ export default function Contact() {
           message: data.message || 'Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.'
         });
       }
-    } catch {
+    } catch (error) {
       setFormStatus({
         submitted: true,
         success: false,
