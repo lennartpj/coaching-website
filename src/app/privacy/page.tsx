@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 export default function PrivacyPolicy() {
   return (
     <div className="flex flex-col min-h-screen">

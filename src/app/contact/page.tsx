@@ -1,6 +1,8 @@
 'use client';
 
 import { useState } from 'react';
+
+export const runtime = 'edge';
 import Button from '@/components/Button';
 
 export default function Contact() {

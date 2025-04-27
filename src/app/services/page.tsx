@@ -1,6 +1,8 @@
 "use client";
 
 import Image from 'next/image';
+
+export const runtime = 'edge';
 import Button from '@/components/Button';
 import { motion } from 'framer-motion';
 

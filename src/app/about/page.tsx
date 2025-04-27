@@ -1,6 +1,8 @@
 import Image from 'next/image';
 import Button from '@/components/Button';
 
+export const runtime = 'edge';
+
 export default function About() {
   return (
     <div className="flex flex-col min-h-screen">
