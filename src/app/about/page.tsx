@@ -17,7 +17,7 @@ export default function About() {
         <div className="container mx-auto px-6">
           <div className="flex flex-col md:flex-row gap-12 items-center">
             <div className="md:w-1/3 flex justify-center">
-              <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden bg-white/10 backdrop-blur-sm border-4 border-white/20 -mt-50">
+              <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden bg-white/10 backdrop-blur-sm border-4 border-white/20 -mt-30">
                 <Image 
                   src="/profilep.png" 
                   alt="Bernhard Steinkamp" 
