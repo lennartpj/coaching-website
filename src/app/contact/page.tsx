@@ -91,7 +91,7 @@ export default function Contact() {
             {/* Contact Information */}
             <div>
               <h2 className="text-3xl font-bold mb-6 text-primary">Nehmen Sie Kontakt auf</h2>
-              <p className="text-dark mb-8">
+              <p className="text-medium mb-8">
                 Ich bin hier, um alle Fragen zu meinen Coaching-Angeboten zu beantworten. Füllen Sie das Formular aus und ich werde mich so schnell wie möglich bei Ihnen melden.
               </p>
               
@@ -103,7 +103,7 @@ export default function Contact() {
                     </svg>
                   </div>
                   <div>
-                    <h3 className="text-lg font-semibold text-dark mb-1">E-Mail</h3>
+                    <h3 className="text-lg font-semibold text-light mb-1">E-Mail</h3>
                     <p className="text-medium">info@steinkamp-coaching.de</p>
                   </div>
                 </div>
@@ -115,7 +115,7 @@ export default function Contact() {
                     </svg>
                   </div>
                   <div>
-                    <h3 className="text-lg font-semibold text-dark mb-1">Telefon</h3>
+                    <h3 className="text-lg font-semibold text-light mb-1">Telefon</h3>
                     <p className="text-medium">+49 (0) 123 456 789</p>
                   </div>
                 </div>
@@ -128,7 +128,7 @@ export default function Contact() {
                     </svg>
                   </div>
                   <div>
-                    <h3 className="text-lg font-semibold text-dark mb-1">Standort</h3>
+                    <h3 className="text-lg font-semibold text-light mb-1">Standort</h3>
                     <p className="text-medium">Musterstraße 123<br />12345 Musterstadt</p>
                   </div>
                 </div>
@@ -221,22 +221,22 @@ export default function Contact() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold mb-3 text-dark">Wie laufen Coaching-Sitzungen ab?</h3>
-              <p className="text-medium">Coaching-Sitzungen werden in der Regel per Videoanruf durchgeführt und dauern 60 Minuten. Wir besprechen Ihre Ziele und Herausforderungen und entwickeln maßgeschneiderte, umsetzbare Strategien für Ihre Bedürfnisse.</p>
+              <p className="text-dark">Coaching-Sitzungen werden in der Regel per Videoanruf durchgeführt und dauern 60 Minuten. Wir besprechen Ihre Ziele und Herausforderungen und entwickeln maßgeschneiderte, umsetzbare Strategien für Ihre Bedürfnisse.</p>
             </div>
             
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold mb-3 text-dark">Wie viele Sitzungen benötige ich?</h3>
-              <p className="text-medium">Die Anzahl der Sitzungen variiert je nach Ihren Zielen und Ihrer Situation. Einige Klienten erreichen ihre Ziele bereits nach wenigen Sitzungen, während andere von einer kontinuierlichen Unterstützung über mehrere Monate profitieren.</p>
+              <p className="text-dark">Die Anzahl der Sitzungen variiert je nach Ihren Zielen und Ihrer Situation. Einige Klienten erreichen ihre Ziele bereits nach wenigen Sitzungen, während andere von einer kontinuierlichen Unterstützung über mehrere Monate profitieren.</p>
             </div>
             
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold mb-3 text-dark">Bieten Sie Rückerstattungen an?</h3>
-              <p className="text-medium">Wenn Sie mit Ihrer ersten Coaching-Sitzung nicht zufrieden sind, biete ich eine 100%ige Geld-zurück-Garantie. Bei Paketbuchungen sind Rückerstattungen für nicht genutzte Sitzungen anteilig möglich.</p>
+              <p className="text-dark">Wenn Sie mit Ihrer ersten Coaching-Sitzung nicht zufrieden sind, biete ich eine 100%ige Geld-zurück-Garantie. Bei Paketbuchungen sind Rückerstattungen für nicht genutzte Sitzungen anteilig möglich.</p>
             </div>
             
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold mb-3 text-dark">Kann ich meinen Termin ändern?</h3>
-              <p className="text-medium">Ja, Termine können mit einer Frist von mindestens 24 Stunden ohne zusätzliche Kosten verschoben werden. Bei kurzfristigen Absagen oder versäumten Terminen kann eine Gebühr anfallen.</p>
+              <p className="text-dark">Ja, Termine können mit einer Frist von mindestens 24 Stunden ohne zusätzliche Kosten verschoben werden. Bei kurzfristigen Absagen oder versäumten Terminen kann eine Gebühr anfallen.</p>
             </div>
           </div>
         </div>
